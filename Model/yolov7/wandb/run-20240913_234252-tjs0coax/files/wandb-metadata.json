@@ -1,0 +1,51 @@
+{
+  "os": "Windows-10-10.0.22631-SP0",
+  "python": "3.11.9",
+  "startedAt": "2024-09-13T18:12:52.182979Z",
+  "args": [
+    "--workers",
+    "1",
+    "--device",
+    "0",
+    "--batch-size",
+    "16",
+    "--epochs",
+    "100",
+    "--img",
+    "640",
+    "640",
+    "--hyp",
+    "data/hyp.scratch.custom.yaml",
+    "--name",
+    "yolov7-custom",
+    "--weights",
+    "yolov7.pt"
+  ],
+  "program": "d:\\Abhishek\\Final Year Project\\Model\\yolov7\\train.py",
+  "codePath": "train.py",
+  "git": {
+    "remote": "https://github.com/WongKinYiu/yolov7.git",
+    "commit": "a207844b1ce82d204ab36d87d496728d3d2348e7"
+  },
+  "email": "finalpoly2@gmail.com",
+  "root": "d:\\Abhishek\\Final Year Project\\Model\\yolov7",
+  "host": "Abhishek",
+  "username": "USER",
+  "executable": "C:\\Users\\USER\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\python.exe",
+  "codePathLocal": "train.py",
+  "cpu_count": 8,
+  "cpu_count_logical": 12,
+  "disk": {
+    "/": {
+      "total": "189396938752",
+      "used": "179610472448"
+    }
+  },
+  "memory": {
+    "total": "16802926592"
+  },
+  "cpu": {
+    "count": 8,
+    "countLogical": 12
+  }
+}
