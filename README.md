@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:035540b7c1fce3f57434637155d1bfdcf890d039651dddce9913db771d5b993d
-size 5
+Run the operations.py file. Replace your ESP32 IP With the one that you have for streaming it. 
